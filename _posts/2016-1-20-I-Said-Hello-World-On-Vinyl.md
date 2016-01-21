@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I can't even...
+title: I Said Hello, World On Vinyl
 ---
 
 Chicharrones tote bag typewriter deep v waistcoat franzen, brooklyn cronut blue bottle yuccie wayfarers. Photo booth cronut banjo chia hella. Intelligentsia YOLO taxidermy, waistcoat actually tofu flexitarian.
