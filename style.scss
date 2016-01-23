@@ -13,6 +13,15 @@
 /* BASE RULES */
 /**************/
 
+button.paybutton {
+    padding: 20px;
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: aqua;
+}
+
 img[alt="hipster-ariel"] {
     width: 300px;
     margin: 20px auto;
